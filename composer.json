@@ -1,5 +1,5 @@
 {
-    "name": "sp4ike/phalcon4.1-datatables",
+    "name": "dosan/phalcon4.1-datatables",
     "description": "DataTables adapter for Phalcon Framework Version 4.1",
     "keywords": ["Phalcon", "DataTables", "Plugin"],
     "license": "MIT",
@@ -10,8 +10,8 @@
     },
     "authors": [
       {
-        "name": "Spaike",
-        "email": "spaike@directorscat.net"
+        "name": "Dosan",
+        "email": "mr.seitkanov@gmail.com"
       }
     ],
     "minimum-stability": "dev",
